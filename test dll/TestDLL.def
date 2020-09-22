@@ -1,0 +1,4 @@
+LIBRARY TestDLL
+EXPORTS
+    addition
+    subtraction

@@ -1,0 +1,3 @@
+All the compiled EXE file are put into this directory. This file is here because if it wasn't, the 'compiled' folder would not be stored in the ZIP file becuase it is empty.
+
+Basically, this folder would be blank in the ZIP file if this file wasn't here telling you that this folder would be blank in the ZIP file if this file wasn't here telling you that this folder would be blank in the ZIP file if this file wasn't here telling you that this folder would be blank in the ZIP file if this file wasn't here telling you that this folder would be blank in the ZIP file if this file wasn't here telling you that this folder would be blank in the ZIP file if this file wasn't here telling you that this folder would be blank..............
